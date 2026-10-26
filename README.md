@@ -1,6 +1,6 @@
 # CRM Automation Toolkit
 
-[![CI](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+[![CI](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml)
 
 Production-style CRM automations from my work running revenue systems for a medical device + consumables company: a HubSpot custom-code workflow, an AI email triage agent for accounts receivable, and an AI assistant that answers CRM questions in plain language.
 
@@ -52,5 +52,3 @@ Case study: [`docs/crm-ai-assistant.md`](docs/crm-ai-assistant.md).
 3. **Write facts back to the CRM.** Flags like `consumables_net_last_365` get reused by reports, routing and the AI assistant.
 4. **A human sees anything unclear.**
 
----
-Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · Technical Product Manager, GTM Systems & AI Engineering
