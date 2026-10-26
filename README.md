@@ -1,5 +1,7 @@
 # CRM Automation Toolkit
 
+[![CI](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/crm-automation-toolkit/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Production-style CRM automations from my work running revenue systems for a medical device + consumables company: a HubSpot custom-code workflow, an AI email triage agent for accounts receivable, and an AI assistant that answers CRM questions in plain language.
 
 > **About this repo.** These are clean-room versions of automations I built and run in production. All data, IDs, names and property values are synthetic. The logic and design choices are real.
@@ -51,4 +53,4 @@ Case study: [`docs/crm-ai-assistant.md`](docs/crm-ai-assistant.md).
 4. **A human sees anything unclear.**
 
 ---
-Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · GTM Systems & AI Engineering
+Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · Technical Product Manager, GTM Systems & AI Engineering
