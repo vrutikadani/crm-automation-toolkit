@@ -1,0 +1,6 @@
+{
+  "name": "crm-automation-toolkit",
+  "private": true,
+  "scripts": { "test": "node --test provider-map/providerMap.test.js" },
+  "dependencies": { "@hubspot/api-client": "^11.0.0" }
+}
